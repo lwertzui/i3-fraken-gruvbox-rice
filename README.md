@@ -14,7 +14,7 @@ Includes:
 -wallpaper  (r/unixporn discord server)  
 -polybar config  ()  
 -xborders config  
--rofi config ()  
+-rofi config (from [here](https://github.com/hiimsergey/rofi-gruvbox-material/))  
 -dunst config (from [here](https://github.com/tinted-theming/base16-dunst/))  
 -install sript  
 -sync script, if you want to create your own fork with your own rice  
