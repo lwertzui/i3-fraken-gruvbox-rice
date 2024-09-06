@@ -22,6 +22,15 @@ echo
 echo "--> done"
 echo "copying xborder config"
 rsync $HOME/.config/xborder/* $HOME/i3-bubblgum-rice/configs/xborders/
+echo
+echo "--> done"
+echo "copying dunst config"
+rsync $HOME/.config/dunst/* $HOME/i3-bubblgum-rice/configs/dunst/
+echo
+echo "--> done"
+echo "copying starship config"
+rsync $HOME/.config/starship/* $HOME/i3-bubblgum-rice/configs/starship/
+echo
 echo "--> done"
 echo
 
