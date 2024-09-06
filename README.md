@@ -15,7 +15,7 @@ Includes:
 -polybar config  ()  
 -xborders config
 -rofi config () 
--dunst config from (here) [https://github.com/tinted-theming/base16-dunst/]
+-dunst config from (here)[https://github.com/tinted-theming/base16-dunst/]
 -install sript   
 -sync script, if you want to create your own fork with your own rice  
 
