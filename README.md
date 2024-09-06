@@ -7,13 +7,15 @@ bash <(curl -sSL https://raw.githubusercontent.com/lwertzui/i3-franken-gruvbox-r
 ```
 
 Includes:  
--IBM wallpaper
--polybar config  
 -i3 config file  
 -picom config  
+-terminator config
+-starship config
+-wallpaper 
+-polybar config  
 -xborders config  
 -rofi config  
--terminator config
+-dunst config
 -install sript  
 -sync script, if you want to create your own fork with your own rice  
 
