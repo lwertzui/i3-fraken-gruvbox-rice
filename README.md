@@ -13,7 +13,7 @@ Includes:
 -starship config  (based on gruvbox-strship preset)
 -wallpaper  (r/unixporn discord server)  
 -polybar config  ()  
--xborders config
+-xborders config  
 -rofi config () 
 -dunst config from [here](https://github.com/tinted-theming/base16-dunst/)  
 -install sript   
