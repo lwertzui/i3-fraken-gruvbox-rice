@@ -15,7 +15,7 @@ Includes:
 -polybar config  ()  
 -xborders config
 -rofi config () 
--dunst config (https://github.com/tinted-theming/base16-dunst/blob/main/themes/base16-gruvbox-dark-hard.dunstrc)
+-dunst config from(here)[https://github.com/tinted-theming/base16-dunst/]
 -install sript   
 -sync script, if you want to create your own fork with your own rice  
 
