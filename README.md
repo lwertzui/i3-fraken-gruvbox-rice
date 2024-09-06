@@ -10,13 +10,13 @@ Includes:
 -i3 config file  
 -picom config  
 -terminator config
--starship config
--wallpaper 
--polybar config  
--xborders config  
--rofi config  
--dunst config
--install sript  
+-starship config  (based on gruvbox-strship preset)
+-wallpaper  (r/unixporn discord server)  
+-polybar config  ()  
+-xborders config
+-rofi config () 
+-dunst config (https://github.com/tinted-theming/base16-dunst/blob/main/themes/base16-gruvbox-dark-hard.dunstrc)
+-install sript   
 -sync script, if you want to create your own fork with your own rice  
 
 Will include *SOON*:  
