@@ -7,13 +7,15 @@ bash <(curl -sSL https://raw.githubusercontent.com/lwertzui/i3-franken-gruvbox-r
 ```
 
 Includes:  
--IBM wallpaper
--polybar config  
 -i3 config file  
 -picom config  
--xborders config  
--rofi config  
 -terminator config
+-starship config  (based on gruvbox-strship preset)
+-wallpaper  (r/unixporn discord server)  
+-polybar config  ()  
+-xborders config  
+-rofi config (from [here](https://github.com/hiimsergey/rofi-gruvbox-material/))  
+-dunst config (from [here](https://github.com/tinted-theming/base16-dunst/))  
 -install sript  
 -sync script, if you want to create your own fork with your own rice  
 
