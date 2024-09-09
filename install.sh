@@ -37,4 +37,7 @@ copy_file "$SRC_DIR/polybar/config.ini" "$DEST_DIR/polybar/config.ini"
 copy_file "$SRC_DIR/picom/picom.conf" "$DEST_DIR/picom/picom.conf"
 copy_file "$SRC_DIR/rofi/config.rasi" "$DEST_DIR/rofi/config.rasi"
 copy_file "$SRC_DIR/xborders/config.json" "$DEST_DIR/xborder/config.json"
+copy_file "$SRC_DIR/dunst/dunstrc" "$DEST_DIR/dunst/dunstrc"
+copy_file "$SRC_DIR/starship/starship.toml" "$DEST_DIR/starship/starship.toml"
 copy_file "$SCRIPT_DIR/wallpapers/wallpaper.png" "$DEST_DIR/wallpapers/wallpaper.png"
+
