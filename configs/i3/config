@@ -197,7 +197,7 @@ bindsym $mod+r mode "resize"
 #}
 
 # Display Wallpaper
-exec_always feh --bg-fill $HOME/.config/wallpapers/wallpaper.png
+exec_always feh --bg-fill $HOME/.config/wallpapers/wallpaper.jpg
 
 # Transparency with picom compositor
 exec_always picom -f
@@ -257,8 +257,6 @@ bindsym Ctrl+Print exec --no-startup-id maim | xclip -selection clipboard -t ima
 bindsym Ctrl+$mod+Print exec --no-startup-id maim --window $(xdotool getactivewindow) | xclip -selection clipboard -t image/png
 bindsym Ctrl+Shift+Print exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
 
-#Picom toggle
-exec $mod+G ~/config/scripts/toggle_picom.sh
 
 ##autostart applications
 exec_always --no-startup-id spotify
