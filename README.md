@@ -10,7 +10,7 @@ Includes:
 -i3 config file  
 -picom config  
 -terminator config
--starship config  (based on gruvbox-strship preset)
+-starship config  (based on gruvbox-strship preset)  
 -wallpaper  (r/unixporn discord server)  
 -polybar config  ()  
 -xborders config  
